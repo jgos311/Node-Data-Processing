@@ -1,0 +1,20 @@
+{
+  "name": "NodeDataProcessing",
+  "version": "1.0.0",
+  "description": "Chromatix Node Data Processing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgos311/Node-Data-Processing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgos311/Node-Data-Processing/issues"
+  },
+  "homepage": "https://github.com/jgos311/Node-Data-Processing#readme"
+}
