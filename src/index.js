@@ -3,7 +3,7 @@
 let fs = require('fs');
 const readline = require('readline');
 
-taskOneMasterJson = {
+let taskOneMasterJson = {
     "Regions":{},
     "ItemTypes":{}
 },taskTwoMasterJson = {}, taskThreeMasterJson = {};
